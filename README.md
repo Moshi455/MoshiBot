@@ -1,0 +1,2 @@
+# MoshiBot
+Jangan ganggu saya
