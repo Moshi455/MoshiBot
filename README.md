@@ -1,2 +1,1 @@
-# MoshiBot
-Jangan ganggu saya
+SELAMAT MENCOBA YA
